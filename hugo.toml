@@ -1,0 +1,4 @@
+baseURL = 'https://bomin75.github.io/'
+languageCode = 'en-us'
+title = 'Bomin Kim'
+theme = 'PaperMod'
